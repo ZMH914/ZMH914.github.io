@@ -1,6 +1,13 @@
 html,
 body,
 header,
+
+body{
+  width: 100%;
+  background-image: url(../img/index.jpg); 
+  background-attachment: fixed;
+}
+
 .view {
   height: 100%;
 }

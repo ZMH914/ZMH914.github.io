@@ -8,7 +8,7 @@
     height: 100%;
 }
 .intro2 {
-  background: url("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1590078591&di=163e7bb033b70abab30c0fccdf99f0d9&imgtype=jpg&er=1&src=http%3A%2F%2Fimg1.qunarzz.com%2Ftravel%2Fpoi%2F1508%2F6f%2F544bc168e08603.jpg_r_720x480x95_226f4940.jpg")no-repeat center center fixed;
+  background: url("../img/非诚勿扰1.jpg")no-repeat center center fixed;
   -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
   -moz-background-size: cover;    /* 针对Firefox浏览器 */
   -o-background-size: cover;      /* 针对Operallq */
@@ -16,7 +16,7 @@
   height: 100%;
 }
 .intro3{
-  background: url("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1589522496189&di=a9a05d9638c21e813f12f6653df4b524&imgtype=0&src=http%3A%2F%2Fimg1.imgtn.bdimg.com%2Fit%2Fu%3D519775666%2C280635669%26fm%3D214%26gp%3D0.jpg")no-repeat center center fixed;
+  background: url(../img/肖申克1.jpg)no-repeat center center fixed;
   -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
   -moz-background-size: cover;    /* 针对Firefox浏览器 */
   -o-background-size: cover;      /* 针对Operallq */
